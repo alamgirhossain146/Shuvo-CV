@@ -4,7 +4,7 @@
     border: 2px solid red;
     padding: 2px;
     margin: 0 auto;
-    background-color: black;
+    background-color: #cbe1de;
 }
 hr{
     width: 100%;
@@ -20,61 +20,60 @@ p{
 .header{
     width: 1200;
     height: 290px;
-    background-color: gray;
+    /* background-color: gray; */
     float: left;
 }
 .image{
     width: 400px;
     height: 290px;
-    background-color: #cbe1de;
+    /* background-color: #cbe1de; */
     float: left;
 }
 .image img{
     width: 260px;
     height: 270px;
     margin-top: 10px;
-    background-color: red;
+    /* background-color: red; */
     float: left;
     margin-left: 60px;
 }
 .head-des{
     width: 800px;
     height: 290px;
-    background-color: #cbe1de;
+    /* background-color: #cbe1de; */
     float: left;
 }
 .about{
     width: 90%;
     height: 260px;
     padding: 5px 5%;
-    background-color: #cbe1de;
+    /* background-color: #cbe1de; */
     float: left;
 }
 .profile{
     width: 90%;
     height: 260px;
     padding: 10px 5%;
-    background-color: #cbe1de;
+    /* background-color: #cbe1de; */
     float: left;
 }
 .family{
     width: 90%;
     height: 250px;
     padding: 10px 5%;
-    background-color: #cbe1de;
+    /* background-color: #cbe1de; */
     float: left;
 }
 .exp{
     width: 90%;
     height: 250px;
     padding: 10px 5%;
-    background-color: #cbe1de;
+    /* background-color: #cbe1de; */
     float: left;
 }
 .address{
     width: 90%;
     height: 550px;
     padding: 10px 5%;
-    background-color: #cbe1de;
     float: left;
 }
